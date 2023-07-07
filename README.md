@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning some basic coding for future
 - 💞️ I’m looking to collaborate on Google
-- 📫 How to reach me to Google
+- 📫 I want to reach my dream companyGoogle
 
 <!---
 PrashantPhulia/PrashantPhulia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
